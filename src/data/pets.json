@@ -1,0 +1,7 @@
+[
+  { "id": 1, "color": "#FFD750", "accent": "#FF6B6B", "name": "Golden Pup", "top": 20, "left": 20 },
+  { "id": 4, "color": "#FF6B6B", "accent": "#9B59B6", "name": "Red Companion", "top": 22, "left": 50 },
+  { "id": 7, "color": "#FF6B6B", "accent": "#9B59B6", "name": "Red Companion", "top": 92, "left": 80 },
+  { "id": 8, "color": "#9B59B6", "accent": "#FF69B4", "name": "Purple Pal", "top": 15, "left": 85 },
+  { "id": 9, "color": "#FFD750", "accent": "#FF6B6B", "name": "Golden Pup", "top": 80, "left": 10 }
+]
